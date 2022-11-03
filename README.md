@@ -21,7 +21,7 @@ Users should be able to:
 - View the optimal layout for the component depending on their device's screen size
 
 #### Screenshot
-[comment]: <> (![Chat app CSS illustration](https://i.imgur.com/DyOxM9u.png))
+<!--![Chat app CSS illustration](https://i.imgur.com/DyOxM9u.png) -->
 [![](https://i.imgur.com/DyOxM9u.png)](https://chat-illustration-css.netlify.app/)
 
 
